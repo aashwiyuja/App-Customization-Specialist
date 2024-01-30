@@ -1,7 +1,5 @@
 App Customization Specialist
 
-https://trailhead.salesforce.com/en/superbadges/superbadge_lightning_platform_app_builder
-
 ### What You’ll be Doing to Earn This Superbadge
 Add a record type
 Build fields
